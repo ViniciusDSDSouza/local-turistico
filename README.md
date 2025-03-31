@@ -2,7 +2,7 @@
 
 ## 📸 Prévia do Projeto
 
-![Prévia do Projeto](assets/images/preview.png)
+![Prévia do Projeto](assets/images/site-preview.png)
 
 [Visite a Página do Projeto](https://viniciusdsdsouza.github.io/local-turistico/index.html).
 
